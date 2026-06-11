@@ -143,7 +143,7 @@ description: Triview 三视 — A股/港股/美股多视角分析。三维独立
 ## 文件结构
 
 ```
-sanhu-stock-analysis/
+triview-stock-analysis/
 ├── SKILL.md              # 技能定义（本文）
 ├── README.md             # 用户手册
 ├── references/
