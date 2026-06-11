@@ -65,7 +65,7 @@ pip install yfinance pandas
 python3 scripts/analyze.py NVDA
 ```
 
-### QClaw（如使用 OpenClaw）
+### OpenClaw（如使用 OpenClaw）
 ```bash
 openclaw skill install triview-stock-analysis
 ```
